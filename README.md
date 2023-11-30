@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 応用課題1
+##### デバッグ形式のBookers1の復習。
+##### DMM WEBCAMPの学習コンテンツ、応用課題フェーズ1の課題として作成しているアプリケーションです。
